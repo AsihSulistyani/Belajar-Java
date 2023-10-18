@@ -3,7 +3,7 @@ package firstProgram;
 public class namaKu {
     //fungsi Utama
     public static void main() {
-        System.out.println("Nama saya Asih");
+        System.out.println("Nama saya Asih Sulistyani");
     }
 
     public static void namaPanggilan(String hasilNama){
